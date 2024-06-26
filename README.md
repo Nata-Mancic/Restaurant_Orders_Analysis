@@ -35,6 +35,6 @@ In order to determine which of the items from the new menu did well in the first
 * Were there certain times that had more or less orders?
 * Which cuisines should we focus on developing more menu items for based on the data?
 
-You can check the queries [here]().
+You can check the SQL queries [here](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/blob/main/Restaurant_project.sql).
 
 ## Results
