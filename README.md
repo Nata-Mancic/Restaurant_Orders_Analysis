@@ -7,7 +7,7 @@ The Taste of the World Café debuted a new menu at the start of the year.
 The key to the analysis is to dig into the customer data to see which of the
 menu items are doing well and what the top customers like the most. 
 
-## Data
+## Dataset
 A quarter's worth of orders from a fictitious restaurant serving international cuisine,
 including the date and time of each order, the items ordered, and additional details on the type, name and price of the items.
 
@@ -17,11 +17,11 @@ There are two tables in the database:
 
 **Note**: project idea and data are taken from the Maven Analytics website.
 
-## Analysis Tools
+## Tools
 * **Data analysis**: PostgreSQL
 * **Data visualization**: Tableau
 
-## Analysis Goal
+## Goal
 We need to answer to the following questions in order to determine which of the items from the new menu are doing well:
 * What were the least and most ordered items? What categories were they in?
 * What do the highest spend orders look like? Which items did they buy and how much did they spend?
