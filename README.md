@@ -61,3 +61,10 @@ From top 5 highest spend orders, items that were order the most are from **Itali
 The following graph shows the items that were ordered in the top 5 highest spend orders grouped by category. Item that was paid the most is **Eggplant Parmesan** from Italian category ($118.7).
 
 ![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/6754cb09-49d0-4b86-aabe-fda0b8a6d2a8)
+
+
+## Conclusions 
+
+1. Hamburgers and Edamame were the most frequently ordered items, suggesting strong customer preference for these options. Therefore promoting these can benefit the restaurants profit.
+2. Chicken Tacos had significantly fewer orders compared to other menu items. This might indicate that they need better preparation, pricing, or promotion to make them more appealing.
+3. The top-spending orders included a variety of items, but Italian cuisine was mostly ordered. This suggests that customers are willing to spend more on Italian dishes. Highlight and promoting Italian cuisine could increase profit.
