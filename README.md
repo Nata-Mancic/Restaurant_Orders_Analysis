@@ -38,6 +38,8 @@ In order to determine which of the items from the new menu did well in the first
 You can check the SQL queries [here](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/blob/main/Restaurant_project.sql).
 
 ## Results
+I created following graphs using Tableau. The workbook is published on [Tableau public](https://public.tableau.com/app/profile/natalija.mancic/viz/restaurant_project_17198368307700/RestaurantOrdersAnalysis?publish=yes). 
+
 There were totaly **5,370** orders made from 2023-01-01 to 2023-03-31, and **12,234** sold items.
 
 The most ordered items were **Hamburgers** with 622 orders and **Edamame** with 620 orders. The least ordered item was **Chicken Tacos** which was ordered 123 times. 
