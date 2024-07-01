@@ -38,3 +38,24 @@ In order to determine which of the items from the new menu did well in the first
 You can check the SQL queries [here](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/blob/main/Restaurant_project.sql).
 
 ## Results
+There were totaly **5,370** orders made from 2023-01-01 to 2023-03-31, and **12,234** sold items.
+
+The most ordered items were **Hamburgers** with 622 orders and **Edamame** with 620 orders. The least ordered item was **Chicken Tacos** which was ordered 123 times. 
+
+![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/9607d971-85c4-4aea-b316-3e17a4933fc6)
+
+Items from **Asian** category were ordered the most (3,470 times), while items from **American** category were ordered the least (2,734 times).
+
+![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/9374f379-ebd2-4ac1-90d7-5adc5eea1be0)
+
+Top 5 orders that spent the most money are: 440, 2075, 1957, 330, and 2675.
+
+![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/c45bf3ae-302f-4df4-acf7-c47e758150d4)
+
+From top 5 highest spend orders, items that were order the most are from **Italian** category (26 items or 37.68%), while the least ordered items are from **American** category (10 items or 14.49%).
+
+![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/d445bced-b01e-4d4f-85df-7fc28c2bc282)   ![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/d4b0d96a-54e0-42fd-8836-9e5a46830787)
+
+The following graph shows the items that were ordered in the top 5 highest spend orders grouped by category. Item that was paid the most is **Eggplant Parmesan** from Italian category ($118.7).
+
+![image](https://github.com/Nata-Mancic/Restaurant_Orders_Analysis/assets/173147286/6754cb09-49d0-4b86-aabe-fda0b8a6d2a8)
